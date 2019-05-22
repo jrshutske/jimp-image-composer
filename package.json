@@ -9,6 +9,8 @@
   "author": "jrshutske",
   "license": "ISC",
   "dependencies": {
-    "jimp": "^0.6.4"
+    "image-downloader": "^3.4.2",
+    "jimp": "^0.6.4",
+    "node-fetch": "^2.6.0"
   }
 }
